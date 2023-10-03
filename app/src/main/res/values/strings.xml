@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Livros</string>
+    <string name="cadastrar_livro">Cadastrar Livro</string>
+    <string name="listar_livro">Listar Livro</string>
+    <string name="cancelar_cadastro">Cancelar</string>
+    <string name="cadastrar_cadastro">CADASTRAR</string>
+    <string name="nota_cadastro">Nota</string>
+    <string name="ano_cadastro">Ano</string>
+    <string name="autor_cadastro">Autor</string>
+    <string name="titulo_cadastro">Titulo</string>
+</resources>
